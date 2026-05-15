@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+websockets
+redis[asyncio]
+python-dotenv
+asyncpraw
+google-api-python-client
+twitchAPI
+tweepy
+vaderSentiment
+textblob
+spacy
+pydantic
+httpx
